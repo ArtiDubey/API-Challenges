@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run API Challenge with Newman
+name: Run API Challenge with Newmantry
 
 # Controls when the workflow will run
 on:
