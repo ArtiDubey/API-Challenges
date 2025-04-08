@@ -47,7 +47,7 @@ jobs:
 
     # Upload the reports to TestArtifacts directory
       - name: Output the Result
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
          name: Reports
          path: testArtifacts
